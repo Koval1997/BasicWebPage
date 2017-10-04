@@ -19,7 +19,7 @@ height: auto;
 display: inline-block;	  
 }
 
-#Game-Name {
+.Game-Name {
 text-decoration: none;
 display: inline-block;
 margin-right: 100px;
@@ -146,19 +146,19 @@ display: block;
 background:url(../images/41.jpg);
 }
 
-#Start{
+.Start{
 background:#710D0A;
 }
 
-#About{
+.About{
 background:#710D0A;
 }
 
-#Main{
+.Main{
 background:#710D0A;
 }
 
-#Top-List{
+.Top-List{
 background:#710D0A;
 }
 
